@@ -1,14 +1,21 @@
 ✅ Project: TMDb movie data analysis
 
-✅ Table of Contents
+
+✅ Table of Contents:
+
+
 ▶️ Introduction
+
 ▶️ Data Wrangling
+
 ▶️ Exploratory Data Analysis
+
 ▶️ Conclusions
 
 
 
-✅ Introduction
+✅ Introduction:
+
 
 ▶️ To complete my Data Analysis project I am using TMDb movies dataset.
 
@@ -22,6 +29,7 @@
 
 
 ✅ From this dataset we could try to solve many different questions such as :
+
 
 ▶️ Is there an improvement in the quality of movies from year to year?
 
